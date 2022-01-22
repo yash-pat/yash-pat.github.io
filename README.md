@@ -1,1 +1,0 @@
-# yash-pat.github.io
