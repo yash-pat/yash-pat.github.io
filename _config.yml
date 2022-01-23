@@ -24,21 +24,21 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Yash Patel
-  image             : https://i.imgur.com/uyDNQnn.jpg
+  image             : ![Image]/Images/personal_pic.jpg
 # dribbble          : your_username
   email             : yash.patel@nyu.edu
-  github            : https://github.com/yyashpatel/
+  github            : yyashpatel
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : https://www.linkedin.com/in/yashpatel0997/
+  linkedin          : yashpatel0997
 #  medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : https://twitter.com/yyash_patel
+  twitter           : yyash_patel
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
