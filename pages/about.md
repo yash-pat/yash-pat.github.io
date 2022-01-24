@@ -15,12 +15,16 @@ My research Interests are in Computer Vision and Robotics. I have worked in the 
 
 ## EXPERIENCE
 ___________________
+___________________
+
 <div class="row">
 {% include about/timeline.html %}
 </div>
 
 ## SKILLS
-____________________
+___________________
+___________________
+
 <div class="row">
 {% include about/skills.html title="Languages" source=site.data.programming-skills %}
 {% include about/skills.html title="Robotics" source=site.data.other-skills %}
