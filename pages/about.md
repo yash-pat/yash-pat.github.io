@@ -18,6 +18,6 @@ My research Interests are in Computer Vision and Robotics. I have worked in the 
 </div>
 
 <div class="row">
-{% include about/skills.html title="Languages" source=site.data.programming-skills %}
-{% include about/skills.html title="Robotics" source=site.data.other-skills %}
+{% include about/skills.html title="programming-skills" source=site.data.programming-skills %}
+{% include about/skills.html title="other-skills" source=site.data.other-skills %}
 </div>
