@@ -5,8 +5,6 @@ permalink: /about/
 weight: 3
 ---
 
-# **About Me**
-
 Hi I am **YASH PATEL** :wave:,<br>
 I am a Robotics graduate student at NYU. Before joining NYU, I was fortunate to work at <a href="https://minro.org/" target="_top">Machine Intelligence and Robotics Center (MINRO)</a>, IIIT-Banglore, India under the guidance of <a href="https://www.iiitb.ac.in/faculty/sachit-rao/?name=sachitrao" target="_top">Prof. Sachit Rao</a>.<br />
 
