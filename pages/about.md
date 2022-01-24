@@ -20,6 +20,7 @@ ________________________________
 </div>
 
 ## SKILLS
+________________________________
 <div class="row">
 {% include about/skills.html title="Languages" source=site.data.programming-skills %}
 {% include about/skills.html title="Robotics" source=site.data.other-skills %}
