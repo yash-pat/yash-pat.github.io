@@ -14,6 +14,7 @@ Prior to joining **MINRO,IIIT-B**, I pursued my Bachelor's degree in Mechatronic
 My research Interests are in Computer Vision and Robotics. I have worked in the area of Robot Grasping - (restrainted analysis, grasp quality measures, optimization  using traditional methods) and Multi-Robot System - (navigation, formation control, obstacle avoidance). I intend to focus on developing algorithms at the intersection of Computer Vision, Machine Learning and Robotics as I believe machine-intelligence (artificial brain to perceive, think and act) has a great potential to address industrial and everyday issues.
 
 # EXPERIENCE
+
 <div class="row">
 {% include about/timeline.html %}
 </div>
