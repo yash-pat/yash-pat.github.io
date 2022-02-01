@@ -12,8 +12,7 @@ transportation.A Decentralized control-based algorithm is presented wherein usin
 behavior that results in collective transportation. On the basis of this implicit coordination through applying force towards
 the same direction the robot swarm successfully manipulates the object to the goal location.
 
-![preview](https://www.sketchappsources.com/resources/source-image/we-were-soldiers-landing-page-dbruggisser.jpg)
-
+![](https://github.com/yyashpatel/yyashpatel.github.io/blob/main/Images/Bachelorproject_images/principle.PNG)
 # ALGORITHM
 
 ![](Images/Bachelorproject_images/algorithm.PNG)
