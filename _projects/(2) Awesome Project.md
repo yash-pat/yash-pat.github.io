@@ -16,9 +16,9 @@ the same direction the robot swarm successfully manipulates the object to the go
 
 # ALGORITHM
 
-![](Images/Bachelorproject_images/algorithm.png)
+![](Images/Bachelorproject_images/algorithm.PNG)
 
-![](https://github.com/yyashpatel/yyashpatel.github.io/blob/main/Images/Bachelorproject_images/behaviours.png)
+![](https://github.com/yyashpatel/yyashpatel.github.io/blob/main/Images/Bachelorproject_images/behaviours.PNG)
 
 <p class="text-center">
 {% include elements/button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="Learn More" %}
