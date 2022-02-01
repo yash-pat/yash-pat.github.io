@@ -16,7 +16,9 @@ the same direction the robot swarm successfully manipulates the object to the go
 
 # ALGORITHM
 
-![search](https://www.sketchappsources.com/resources/source-image/microsoft-windows-10-virtual-keyboard-diogo-sousa.png)
+![](https://github.com/yyashpatel/yyashpatel.github.io/blob/main/Images/Bachelor%20project%20images/algorithm.png)
+
+![](https://github.com/yyashpatel/yyashpatel.github.io/blob/main/Images/Bachelor%20project%20images/behaviours.png)
 
 <p class="text-center">
 {% include elements/button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="Learn More" %}
