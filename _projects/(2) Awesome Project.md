@@ -10,14 +10,20 @@ description: This project is based on swarm robotics, where a swarm of robots co
 Swarm of biological species exhibits a variety of simple individual characteristics which collectively give rise to complex behaviors such as group formation and
 transportation.A Decentralized control-based algorithm is presented wherein using each robot in the swarm uses local control rules to exhibit different
 behavior that results in collective transportation. On the basis of this implicit coordination through applying force towards
-the same direction the robot swarm successfully manipulates the object to the goal location.
+the same direction the robot swarm successfully manipulates the object to the goal location. Collective/emerging behavior is achieved through local control
+of the robots as hown in the fig 1.
 
-![](https://github.com/yyashpatel/yyashpatel.github.io/blob/main/Images/Bachelorproject_images/principle.PNG)
+![](/Images/Bachelorproject_images/principle.PNG)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fig 1:Basic Working Principle
+
 # ALGORITHM
-
+The fig 2 shown below reprents the alogorithm implemented.
 ![](/Images/Bachelorproject_images/algorithm.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fig 2:Algortihm
 
-![](https://github.com/yyashpatel/yyashpatel.github.io/blob/main/Images/Bachelorproject_images/behaviours.PNG)
+The behaviours programmed as shown in fig 3. 
+![](/Images/Bachelorproject_images/behaviours.PNG)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fig 3:Different Behaviours
 
 <p class="text-center">
 {% include elements/button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="Learn More" %}
