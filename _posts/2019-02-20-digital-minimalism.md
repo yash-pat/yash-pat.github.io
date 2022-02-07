@@ -14,8 +14,14 @@ description: The robots were designed and developed for robocon competition duri
 
 ![IMG_8826](https://user-images.githubusercontent.com/87276851/152709641-11037b9e-61b5-489c-a0ae-adf4436183d1.JPG)
 
-![IMG_8823](https://user-images.githubusercontent.com/87276851/152709642-a44f8710-fb89-4e76-9a6f-4b005b151dba.JPG)
-
 ![IMG_20180122_220610](https://user-images.githubusercontent.com/87276851/152709644-72f703a5-32a0-4e1e-a51f-98804720ca21.jpg)
 
 ![IMG_8832](https://user-images.githubusercontent.com/87276851/152711403-1a53a2f9-f546-46b3-8193-6dd8227e25fb.JPG)
+
+
+https://user-images.githubusercontent.com/87276851/152711496-fce34d47-5c5e-43de-9169-fc9972938d5d.mp4
+
+
+
+https://user-images.githubusercontent.com/87276851/152711508-4d1c0b3a-6a53-46aa-af08-48406e72b383.mp4
+
