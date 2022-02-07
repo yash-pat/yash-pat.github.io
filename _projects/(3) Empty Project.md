@@ -1,9 +1,7 @@
 ---
-name: Empty Project
-tools: [Node JS, JavaScript, HTML, CSS]
+name: Deep V-SLAM
+tools: [SLAM, Deep Learning, ROS]
 image:
-description: This project has no image or showcase page, but it is still a beautiful project inside out!
+description: The project work is in progress.
 ---
-# Image
-
-![Image](/Images/geometric_velocity.PNG)
+# Coming Soon
