@@ -1,6 +1,6 @@
 ---
 name: PlaceHolder Project
-tools: [nothing, important]
+tools: [Kinematics, Robot Grasping,WEBOTS,MATLAB]
 image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 external_url: https://robotgrasping-smart-harness-doc-git-main-yyashpatel.vercel.app/
