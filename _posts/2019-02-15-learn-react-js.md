@@ -9,5 +9,3 @@ description: The robots were designed and developed for world robotics olympiad 
 ![IMG_7706](https://user-images.githubusercontent.com/87276851/152710857-0c369d4f-9439-4a09-b520-71402a6b4931.JPG)
 
 
-https://user-images.githubusercontent.com/87276851/152710866-163ebd8a-37f2-4501-ada1-644831052d9c.mp4
-
