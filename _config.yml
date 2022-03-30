@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Yash Patel
 description         : >-
-                      WELCOME !! :wave: <br/>
+                      WELCOME !! <br/>
                       I am Robotics Graduate Student at <a href="https://wp.nyu.edu/arpl/" target="_top">Agile Robotics and Perception LAB (ARPL)</a>, <a href="https://www.nyu.edu/" target="_top">NYU</a>
                       led by Professor Guiseppe Loianno.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
