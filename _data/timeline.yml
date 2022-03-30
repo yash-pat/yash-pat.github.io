@@ -1,10 +1,23 @@
-- title: Research Engineer (Robotics), MINRO LAB,IIIT-B
+- title: Research Assistant,<a href="https://wp.nyu.edu/arpl/" target="_top">ARPL</a>, NYU
+  from: March 2022
+  to: Present
+  description: Neural Radiance Fields (NeRFs) for Autonomous Navigation - 
+               A NeRF is a feed-forward neural network trained to reproduce input views 
+               of a single scene using a rendering loss. The network directly maps from 
+               spatial location and viewing direction to color and opacity, acting as 
+               the “volume”. By rendering the volume, we can differentiably render new views. 
+               The goal of this project is to first explore neural radiance fields (NeRFs) to 
+               build indoor real-world environments and then navigate them using a quadrotor 
+               in augmented reality fashion.
+
+- title: Research Engineer, MINRO LAB,IIIT-B
   from: August 2020
   to: July 2021
-  description: My work involved modelling an adaptive grasping mechanism that is 
-               to be attached on a robotic exoskeleton to grasp the foot, lower limb, 
-               chest of a patient with industrial collaborators - <a href="http://www.timetooth.com/" target="_top">TimeTooth Technologies</a>.
-               Parallely I also developed obstacle avoidance and formation control
+  description: My work was in collaboration with <a href="http://www.timetooth.com/" target="_top">TimeTooth Technologies</a>, 
+               it involved modelling an adaptive grasping mechanism, that is computing 
+               grasp matrix, hand jacobian and contact forces for the purpose of grasp planning and
+               analysing grasp singularities leading to optimal grasp quality.
+               I also developed obstacle avoidance based on collision cones and formation control
                algorithms for swarm robotics using quanser autonomos vehicles studio (Motion Capture System).
 
 - title: Research Student, Autonomous Systems Lab, SRMIST
