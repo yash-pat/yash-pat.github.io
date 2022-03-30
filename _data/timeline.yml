@@ -1,4 +1,4 @@
-- title: Research Assistant,<a href="https://wp.nyu.edu/arpl/" target="_top">ARPL</a>, NYU
+- title: Research Assistant - <a href="https://wp.nyu.edu/arpl/" target="_top">ARPL</a>, NYU
   from: March 2022
   to: Present
   description: Neural Radiance Fields (NeRFs) for Autonomous Navigation - 
@@ -10,20 +10,20 @@
                build indoor real-world environments and then navigate them using a quadrotor 
                in augmented reality fashion.
 
-- title: Research Engineer, MINRO LAB,IIIT-B
+- title: Research Engineer - <a href="https://www.minro.org/" target="_top">MINRO</a>,IIIT-B
   from: August 2020
   to: July 2021
   description: My work was in collaboration with <a href="http://www.timetooth.com/" target="_top">TimeTooth Technologies</a>, 
                it involved modelling an adaptive grasping mechanism, that is computing 
                grasp matrix, hand jacobian and contact forces for the purpose of grasp planning and
-               analysing grasp singularities leading to optimal grasp quality.
+               analysing grasp singularities to derive an optimal grasp quality.
                I also developed obstacle avoidance based on collision cones and formation control
                algorithms for swarm robotics using quanser autonomos vehicles studio (Motion Capture System).
 
-- title: Research Student, Autonomous Systems Lab, SRMIST
+- title: Research Student - <a href="https://www.researchgate.net/lab/Autonomous-Systems-Lab-Sivanathan-Kandhasamy" target="_top">MINRO</a>, SRMIST
   from: August 2019
   to: June 2020
   description: I worked in the area of mobile robotics. I participated at WRO 2018 competition
-               in collaboration with SRM Team Robocon. I also conducted my bachelor project
-               titled- Decentalized Control of Robot Swarm for Cooperative Transportation.
-               My research work at ASL was focused Mutli-Robot Systems.
+               in collaboration with SRM Team Robocon. I also conducted my bachelor thesis
+               titled- Decentalized Control of Robot Swarm for Cooperative Transportation, developing a
+               decentralized control algorithm using local control of the robots.
