@@ -1,6 +1,8 @@
- ---
- layout: default
- title: Page Name
- permalink: /github/ (the output path for the page)
- weight: 4 (the order of the page in the navigation bar)
- ---
+---
+layout: default
+title: Pse
+permalink: /github/
+weight: 4
+---
+
+{% include github/index.html %}
