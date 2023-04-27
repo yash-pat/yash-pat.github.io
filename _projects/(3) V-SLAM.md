@@ -17,6 +17,8 @@ description: NeRF Simulator for Image based robot navigation
 A NeRF is a neural network trained to replicate input views of a single scene via rendering loss. It directly maps spatial location and viewing direction to color and opacity, effectively acting as a “volume”. This allows for a differentiable rendering of new views. The project aims to utilize NeRFs to construct indoor real-world environments, which can then be navigated using a quadrotor in augmented reality. 
 
 # Results
+![example image](Images/twitter.png)
 
-
- []!https://github.com/yyashpatel/yyashpatel.github.io/blob/main/Images/linkedin.png
+<!-- <div align="center">
+  <img src="https://github.com/yyashpatel/yyashpatel.github.io/blob/main/Images/object.gif">
+</div> -->
