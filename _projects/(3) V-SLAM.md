@@ -10,3 +10,4 @@ description: NeRF Simulator for Image based robot navigation
  <p style="text-align: center;">Neural Radiance Field based Simulator</p>
  <p style="text-align: center;">Yash Patel</p>
 
+![My Skills](https://skillicons.dev/icons?i=github)
