@@ -6,7 +6,7 @@ description: NeRF Simulator for Image based robot navigation
 # external_url: https://drive.google.com/file/d/15IVhjKqoPyvoY-PHXU9jnbxDrrKSR908/view?usp=sharing
 ---
 
-
+ 
  <p style="text-align: center;">Neural Radiance Field based Simulator</p>
  <!-- ![My Skills](https://skillicons.dev/icons?i=github) -->
  <!-- <p style="text-align: center;">Yash Patel</p> -->
@@ -18,5 +18,5 @@ A NeRF is a neural network trained to replicate input views of a single scene vi
 # Results
 
 <div align="center">
-  <img width="460" height="300" src="Images/object.gif">
+  <img width="460" height="300" src="https://github.com/yyashpatel/yyashpatel.github.io/Images/object.gif">
 </div>
