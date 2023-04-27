@@ -7,5 +7,6 @@ description: NeRF Simulator for Image based robot navigation
 ---
 
 
- <p style="text-align: center;"># NeRF Simulator</p>
+ <p style="text-align: center;">Neural Radiance Field based Simulator</p>
+ <p style="text-align: center;">Yash Patel</p>
 
