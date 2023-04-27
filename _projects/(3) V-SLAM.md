@@ -19,5 +19,5 @@ A NeRF is a neural network trained to replicate input views of a single scene vi
 # Results
 
 <div align="center">
-  <img width="460" height="300" src="https://github.com/yyashpatel/yyashpatel.github.io/blob/main/Images/object.gif">
+  <img src="https://github.com/yyashpatel/yyashpatel.github.io/blob/main/Images/linkedin.png">
 </div>
