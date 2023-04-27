@@ -8,6 +8,23 @@ description: NeRF Simulator for Image based robot navigation
 
 
  <p style="text-align: center;">Neural Radiance Field based Simulator</p>
- <p style="text-align: center;">Yash Patel</p>
+ <!-- ![My Skills](https://skillicons.dev/icons?i=github) -->
+ <!-- <p style="text-align: center;">Yash Patel</p> -->
 
-![My Skills](https://skillicons.dev/icons?i=github)
+# Abstract
+
+A NeRF is a neural network trained to replicate input views of a single scene via rendering loss. It directly maps spatial location and viewing direction to color and opacity, effectively acting as a “volume”. This allows for a differentiable rendering of new views. The project aims to utilize NeRFs to construct indoor real-world environments, which can then be navigated using a quadrotor in augmented reality. 
+
+# Results
+
+<div style="text-align: center;">
+
+![alt text](/Images/game_lab.gif)
+
+</div>
+
+<div style="text-align: center;">
+
+![alt text](/Images/object.gif)
+
+</div>
