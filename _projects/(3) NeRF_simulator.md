@@ -3,7 +3,7 @@ name: NeRF Simulator
 tools: [Deep Learning, ROS]
 image: https://user-images.githubusercontent.com/87276851/235468593-78dde9aa-a4a0-4ba4-9aea-ec0f72da72c5.gif
 description: NeRF Simulator for Image based robot navigation
-# external_url: https://drive.google.com/file/d/15IVhjKqoPyvoY-PHXU9jnbxDrrKSR908/view?usp=sharing
+external_url: 
 ---
 
  <h1 align="center">Neural Radiance Field based Simulator</h1>
