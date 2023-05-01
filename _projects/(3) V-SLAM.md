@@ -1,7 +1,7 @@
 ---
-name: Deep V-SLAM
-tools: [SLAM, Deep Learning, ROS]
-image: https://user-images.githubusercontent.com/87276851/152707776-837c4e8b-6952-4c67-8c6f-b765eb420594.png
+name: NeRF Simulator
+tools: [Deep Learning, ROS]
+image: https://user-images.githubusercontent.com/87276851/235468593-78dde9aa-a4a0-4ba4-9aea-ec0f72da72c5.gif
 description: NeRF Simulator for Image based robot navigation
 # external_url: https://drive.google.com/file/d/15IVhjKqoPyvoY-PHXU9jnbxDrrKSR908/view?usp=sharing
 ---
